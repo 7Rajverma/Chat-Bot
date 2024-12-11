@@ -14,3 +14,6 @@ Node.js installed for server-side operations.
 Frontend: Built with HTML, CSS, and JavaScript to create an intuitive user interface.
 Backend: Python handles API communication and chatbot logic.
 Configuration: gemini-config.js stores settings for Gemini API.
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
